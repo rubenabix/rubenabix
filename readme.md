@@ -1,6 +1,6 @@
 # Rubenabix
 
-> Rubeén Abarca Navarro
+> Rubén Abarca Navarro
 
 # install
 
