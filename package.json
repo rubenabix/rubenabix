@@ -1,0 +1,31 @@
+{
+  "name": "rubenabix",
+  "version": "1.0.0",
+  "description": "rubenabix site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenabix/rubenabix.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "Rubenabix <rubenabix@gmail.com> (https://www.rubenabix.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rubenabix/rubenabix/issues"
+  },
+  "homepage": "https://github.com/rubenabix/rubenabix#readme",
+  "dependencies": {
+    "pug": "^2.0.0-alpha7"
+  },
+  "devDependencies": {
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-load-plugins": "^1.2.2",
+    "gulp-pug": "^3.0.2"
+  }
+}

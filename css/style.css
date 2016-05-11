@@ -35,7 +35,7 @@ body {
     margin: 0;
     font-family: 'Raleway',sans-serif;
 	font-weight: 300;
-	font-size: 13px;
+	font-size: 14px;
 	line-height:22px;
 	color: #232323;
 	background-color: #fff;
@@ -235,7 +235,7 @@ header nav .menu li a{
 	padding: 100px 0;
 }
 .parallax1 {
-	background:url(../images/architecture.jpg) no-repeat center center fixed;    
+	background:url(../images/home1.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
