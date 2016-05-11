@@ -220,11 +220,11 @@ header nav .menu li a{
     height: 400px;
 }
 .box-img {
-	border: 1px solid #dbdbdb;
+	/*border: 1px solid #dbdbdb;*/
 	padding: 28px 23px 31px;
 	position: relative;
     display: block;
-    background-color: #fff;
+    /*background-color: #fff;*/
 }
 #section1 i{
 	margin-right: 10px;
